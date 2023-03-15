@@ -1,0 +1,30 @@
+.number {
+    font-size: 2rem;
+}
+#hour:hover{
+    transform: scale(1.1);
+    transition: 1000ms;
+    color: white;
+    background-color: red;
+    border-radius: 1rem;
+}
+#minute:hover{
+    transform: scale(1.1);
+    transition: 1000ms;
+    color: white;
+    background-color: blue;
+    border-radius: 1rem;
+}
+#second:hover{
+    transform: scale(1.1);
+    transition: 1000ms;
+    color: white;
+    background-color: green;
+    border-radius: 1rem;
+}
+#count:hover{
+    transform: scale(1.1);
+    transition: 1000ms;
+    background-color: yellow;
+    border-radius: 1rem;
+}
